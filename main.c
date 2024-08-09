@@ -20,6 +20,7 @@ int main()
     push(2);
     push(3);
     push(4);
+      push(5);
 
 pop();
     for(pReader = ptop; pReader!= NULL; pReader = pReader ->pNext)
